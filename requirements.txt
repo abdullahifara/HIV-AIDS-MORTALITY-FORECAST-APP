@@ -5,6 +5,7 @@ streamlit==1.32.2
 pandas
 numpy
 matplotlib
+seaborn
 scikit-learn
 
 # ARIMA modeling
