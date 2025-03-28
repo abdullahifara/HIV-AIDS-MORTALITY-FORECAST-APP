@@ -1,15 +1,16 @@
-# Core app requirements
+# Core Streamlit app
 streamlit==1.32.2
 
-# Data science libraries
+# Data and visualization
 pandas
 numpy
 matplotlib
 scikit-learn
 
-# Time series modeling
-pmdarima==2.0.3
+# ARIMA modeling
+statsmodels
 
-# Ensuring compatibility
-python_version == 3.11
+# Compatibility with Python 3.12
+python_version == 3.12
+
 
