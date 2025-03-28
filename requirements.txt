@@ -1,7 +1,15 @@
+# Core app requirements
+streamlit==1.32.2
+
+# Data science libraries
 pandas
 numpy
 matplotlib
-seaborn
-statsmodels
-pmdarima
 scikit-learn
+
+# Time series modeling
+pmdarima==2.0.3
+
+# Ensuring compatibility
+python_version == 3.11
+
