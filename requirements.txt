@@ -10,7 +10,5 @@ scikit-learn
 # ARIMA modeling
 statsmodels
 
-# Compatibility with Python 3.12
-python_version == 3.12
 
 
