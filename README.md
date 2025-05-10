@@ -26,7 +26,7 @@ This project focuses on forecasting HIV/AIDS mortality rates across African coun
 
 ## 🚀 Live Demo
 Interact with the live app here:  
-👉 [Streamlit HIV/AIDS Mortality Forecast App](https://hiv-mortality-for-arica-fptngqdkbe3qu97bgmvduj.streamlit.app/)
+👉 [Streamlit HIV/AIDS Mortality Forecast App](https://hiv-mortality-for-africa-fptngqdkbe3qu97bgmvduj.streamlit.app/)
 
 ## 📂 How to Run Locally
 1. Clone the repository:
