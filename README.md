@@ -4,7 +4,7 @@
 This project focuses on forecasting HIV/AIDS mortality rates across African countries using historical data. The goal is to provide data-driven insights to support health policy planning, intervention prioritization, and awareness about mortality trends related to HIV/AIDS on the continent.
 
 #  Data
-- **Source**: Cleaned dataset from historical WHO/UNAIDS records on HIV/AIDS mortality.
+- **Source**: Cleaned dataset from Kaggle, historical WHO/UNAIDS records on HIV/AIDS mortality.
 - **File**: `cleaned_total_hiv_aids_deaths_africa.csv`
 - Includes country-level HIV/AIDS mortality data across multiple years.
 
