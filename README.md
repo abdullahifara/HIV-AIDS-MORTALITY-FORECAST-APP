@@ -24,7 +24,7 @@ This project focuses on forecasting HIV/AIDS mortality rates across African coun
 - Clear disparities still exist between regions, highlighting need for targeted interventions.
 - Data-driven forecasting provides a baseline for estimating future health resource needs.
 
-## 🚀 Live Demo
+# Live Demo
 Interact with the live app here:  
 👉 [Streamlit HIV/AIDS Mortality Forecast App](https://hiv-mortality-for-africa-fptngqdkbe3qu97bgmvduj.streamlit.app/)
 
