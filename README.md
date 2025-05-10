@@ -1,5 +1,9 @@
 # HIV MORTALITY FORECAST  APP
 
+# Live Demo
+Interact with the live app here:  
+👉 [Streamlit HIV/AIDS Mortality Forecast App](https://hiv-mortality-for-africa-fptngqdkbe3qu97bgmvduj.streamlit.app/)
+
 # Project Overview
 This project focuses on forecasting HIV/AIDS mortality rates across African countries using historical data. The goal is to provide data-driven insights to support health policy planning, intervention prioritization, and awareness about mortality trends related to HIV/AIDS on the continent.
 
@@ -24,11 +28,7 @@ This project focuses on forecasting HIV/AIDS mortality rates across African coun
 - Clear disparities still exist between regions, highlighting need for targeted interventions.
 - Data-driven forecasting provides a baseline for estimating future health resource needs.
 
-# Live Demo
-Interact with the live app here:  
-👉 [Streamlit HIV/AIDS Mortality Forecast App](https://hiv-mortality-for-africa-fptngqdkbe3qu97bgmvduj.streamlit.app/)
-
-## 📂 How to Run Locally
+##  How to Run Locally
 1. Clone the repository:
    ```bash
    git clone https://github.com/abdullahifara/HIV-MORTALITY-FOR-AFRICA.git
