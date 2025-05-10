@@ -31,5 +31,5 @@ Interact with the live app here:
 ## 📂 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdullahifara/HIV-MORTALITY-FOR-ARICA.git
+   git clone https://github.com/abdullahifara/HIV-MORTALITY-FOR-AFRICA.git
    cd HIV-MORTALITY-FOR-ARICA
