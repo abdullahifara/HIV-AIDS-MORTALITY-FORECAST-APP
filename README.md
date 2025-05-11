@@ -1,4 +1,4 @@
-# HIV MORTALITY FORECAST  APP
+# HIV MORTALITY FORECAST IN AFRICA
 
 # Live Demo
 Interact with the live app here:  
